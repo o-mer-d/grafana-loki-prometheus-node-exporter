@@ -64,7 +64,7 @@ Follow these steps to set up monitoring dashboards:
 Create two new data sources in Grafana:
 
 - **Prometheus Data Source:**
-  - URL: `http://prometheus:9100`
+  - URL: `http://prometheus:9090`
 
 - **Loki Data Source:**
   - URL: `http://loki:3100`
